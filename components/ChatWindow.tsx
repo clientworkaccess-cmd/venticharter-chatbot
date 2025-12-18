@@ -12,7 +12,7 @@ interface ChatWindowProps {
 
 // Configuration for Venti Charter
 const CONFIG = {
-  webhookUrl: 'https://n8n.srv927950.hstgr.cloud/webhook/71b98936-8fd1-4bf7-9e9d-16dc5fca4f15',
+  webhookUrl: 'https://n8n.srv1205715.hstgr.cloud/webhook/71b98936-8fd1-4bf7-9e9d-16dc5fca4f15',
   welcomeText: "Welcome to Venti Charter! I'm your virtual concierge. How can I assist you with your yachting experience today?",
   welcomeButtons: [
     { label: "Book a Charter", value: "Book a Charter", type: 'action' }
